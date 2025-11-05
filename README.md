@@ -9,3 +9,6 @@ hal ini disebabkan karena router yang sudah dikonfigurasi dan koneksi kabel yang
 
 # Mengapa switch tidak di konfigurasi?
 karena switch sudah mengikuti config dari router secara otomatis
+
+# Link Youtube
+https://youtu.be/weMR3a3W-Jc
