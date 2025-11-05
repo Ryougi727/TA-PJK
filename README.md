@@ -6,3 +6,6 @@ akibatnya PC B belum menemukan koneksi atau jalur untuk menuju PC A
 # Gambar ping after
 pada gambar tersebut terlihat PC B sudah bisa melakukan ping atau uji koneksi ke PC A
 hal ini disebabkan karena router yang sudah dikonfigurasi dan koneksi kabel yang benar (sebelumnya salah)
+
+# Mengapa switch tidak di konfigurasi?
+karena switch sudah mengikuti config dari router secara otomatis
