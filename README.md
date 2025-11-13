@@ -10,5 +10,7 @@ hal ini disebabkan karena router yang sudah dikonfigurasi dan koneksi kabel yang
 # Mengapa switch tidak di konfigurasi?
 karena switch sudah mengikuti config dari router secara otomatis
 
-# Link Youtube
+# Link Youtube TA 2
 https://youtu.be/weMR3a3W-Jc
+
+# Link Youtube TA 3
