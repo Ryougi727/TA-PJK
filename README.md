@@ -14,3 +14,6 @@ karena switch sudah mengikuti config dari router secara otomatis
 https://youtu.be/weMR3a3W-Jc
 
 # Link Youtube TA 3
+TA praktikum juful 3 mengenai vlan dan sub interface
+
+https://youtu.be/EWExvVAlp0I
